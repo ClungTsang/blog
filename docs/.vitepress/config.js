@@ -2,9 +2,12 @@ export default {
   themeConfig: {
     siteTitle: "HIsheR",
     logo: "/public/star.png",
+    // head: [
+    //   ['link', { rel: 'icon', href: '/public/star.png' }]
+    // ],
     nav: [
-      { text: "指南", link: "/guild/installation" },
-      { text: "组件", link: "/examples/button" },
+      { text: "仓库", link: "/guild/installation" },
+      { text: "文章", link: "/book/book1" },
     ],
     socialLinks: [{ icon: "github", link: "https://clungtsang.github.io/" }],
     sidebar: {
@@ -23,18 +26,14 @@ export default {
           ],
         },
       ],
-      "/examples/": [
+      "/book/": [
         {
-          text: "基础组件",
+          text: "文章列表",
           items: [
             {
-              text: "Button按钮",
-              link: "/examples/button",
-            },
-            {
-              text: "Icon图标",
-              link: "/examples/icon",
-            },
+              text: "若依管理系统的开发与细节",
+              link: "/book/book1",
+            }
           ],
         },
       ],
