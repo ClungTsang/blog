@@ -7,17 +7,17 @@ titleTemplate: 个人博客/知识库/文章聚集地
 hero:
   name: HIsheR
   text: 个人博客/知识库/文章聚集地
-  tagline: 没啥特点仅供学习
+  tagline: 随意谢谢
   image:
     src: /public/star.png
-    alt: Kitty
+    alt: star
   actions:
     - theme: brand
-      text: 开始
-      link: /guide/
+      text: 查看官方文档
+      link: https://vitepress.vuejs.org/
     - theme: alt
-      text: 在 Gitee 上查看
-      link: https://gitee.com/geeksdidi/kittyui
+      text: 在 github 上查看
+      link: https://github.com/ClungTsang/blog
 
 features:
   - icon: 💡
