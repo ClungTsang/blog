@@ -34,6 +34,14 @@ export default {
                 {
                   text: "ref、reactive的使用",
                   link: "/book/book5",
+                },
+                {
+                  text: "vue3拖动元素到图片任意位置",
+                  link: "/book/book6",
+                },
+                {
+                  text: "人手一个chatGPT",
+                  link: "/book/book7",
                 }
               ]
             }
