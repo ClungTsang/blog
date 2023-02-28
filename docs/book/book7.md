@@ -1,6 +1,6 @@
 # 现在人手一个ChatGPT，你还卡在注册页面吗
 
-![封面](http://hisher.site/pic/bg.webp)
+![封面](http://hisher.site/pic/book7/bg.webp)
 
 ## ChatGPT 使用说明 
 
@@ -13,7 +13,7 @@
 
 ### 登录ChatGPT
 首先登录[ChatGPT]的登录注册界面，点击 sign up 按钮，然后输入你要注册的邮箱和密码，如下图所示
-<!-- ![登录]('/docs/public/static/6f429004dbb89fad175bb9ebc54673e.png') -->
+![登录](http://hisher.site/pic/book7/login.png)
 然后点击 Continue 按钮，等一会你到邮箱就会收到提示，如果没提示也请自己主动去看看。
 ### 获取手机验证码
 sms-activate：[sms-activate](https://sms-activate.org/)是国外的一个付费接码平台，如果没有接到码，则会退回租金，实测使用过程还算简便。

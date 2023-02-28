@@ -2,22 +2,22 @@
 layout: home
 
 title: HIsheR
-titleTemplate: 个人博客/知识库/文章聚集地
+titleTemplate: 博客/知识库/文章
 
 hero:
   name: HIsheR
   text: 个人博客/知识库/文章聚集地
   tagline: 随意谢谢
   image:
-    src: /public/star.png
+    src: http://hisher.site/pic/star.webp
     alt: star
   actions:
     - theme: brand
-      text: 查看官方文档
-      link: https://vitepress.vuejs.org/
+      text: 查看我的文章
+      link: /book/index.md
     - theme: alt
-      text: 在 github 上查看
-      link: https://github.com/ClungTsang/blog
+      text: 在github上查看我的项目
+      link: https://github.com/ClungTsang
 
 features:
   - icon: 💡
