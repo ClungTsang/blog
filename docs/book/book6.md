@@ -8,3 +8,4 @@
 
 ## 拓展阅读
 - (手把手教你学会用vue实现元素拖拽移动+滚轮缩放功能)[https://blog.csdn.net/vvv3171071/article/details/122705408]
+- (vue 在固定区域内拖拽)[https://blog.51cto.com/u_15482477/5158721]
