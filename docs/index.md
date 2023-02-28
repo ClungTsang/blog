@@ -6,8 +6,8 @@ titleTemplate: 博客/知识库/文章
 
 hero:
   name: HIsheR
-  text: 个人博客/知识库/文章聚集地
-  tagline: 随意谢谢
+  text: 个人博客/知识库/文章
+  tagline: 微姐大歌星
   image:
     src: http://hisher.site/pic/star.webp
     alt: star

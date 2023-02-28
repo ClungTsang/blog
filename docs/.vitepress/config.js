@@ -1,9 +1,14 @@
 export default {
   themeConfig: {
+    footer: {
+      message: 'Released under the MIT License.',
+      copyright: 'Copyright © 2023-present HIsheR'
+    },
     siteTitle: "HIsheR",
-    logo: "/star.png",
+    logo: "http://hisher.site/pic/star.webp",
     nav: [
       { text: "文章", link: "/book/index" },
+      { text: "日记", link: "/journal/index" },
     ],
     socialLinks: [{ icon: "github", link: "https://clungtsang.github.io/" }],
     sidebar: {
@@ -48,6 +53,18 @@ export default {
           ],
         },
       ],
+      "/journal/": [
+        {
+          text: "开发日记",
+          link: "/journal/index",
+          items: [
+            {
+              text: "3月日记",
+              link: "/journal/march",
+            }
+          ]
+        }
+      ]
     },
   },
 }
