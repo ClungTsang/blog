@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as o,b as s}from"./app.4c46688e.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"examples/icon.md"}'),a={name:"examples/icon.md"},c=s("p",null,"ces 2",-1),n=[c];function r(_,i,p,d,l,m){return t(),o("div",null,n)}const h=e(a,[["render",r]]);export{u as __pageData,h as default};

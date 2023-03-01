@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.9c9efea4.js";const l=JSON.parse('{"title":"前端工程师需要提升的能力,","description":"","frontmatter":{"title":"前端工程师需要提升的能力,","lang":"en-US,"},"headers":[],"relativePath":"tech/index.md"}'),n={name:"tech/index.md"};function r(c,o,s,i,d,p){return a(),t("div")}const m=e(n,[["render",r]]);export{l as __pageData,m as default};

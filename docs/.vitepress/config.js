@@ -7,8 +7,9 @@ export default {
     siteTitle: "HIsheR",
     logo: "http://hisher.site/pic/star.webp",
     nav: [
-      { text: "文章", link: "/book/index" },
-      { text: "日记", link: "/journal/index" },
+      { text: "技术文章", link: "/book/index" },
+      { text: "开发文档", link: "/tech/index" },
+      { text: "一般日记", link: "/journal/index" },
     ],
     socialLinks: [{ icon: "github", link: "https://clungtsang.github.io/" }],
     sidebar: {
@@ -43,15 +44,23 @@ export default {
                 {
                   text: "vue3拖动元素到图片任意位置",
                   link: "/book/book6",
-                },
-                {
-                  text: "人手一个chatGPT",
-                  link: "/book/book7",
                 }
               ]
             }
           ],
         },
+      ],
+      "/tech/": [
+        {
+          text: "技术文档",
+          link: "/tech/index",
+          items: [
+            {
+              text: "chatGPT",
+              link: "/tech/tech_chatGPT",
+            }
+          ]
+        }
       ],
       "/journal/": [
         {
